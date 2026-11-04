@@ -73,7 +73,15 @@ AI-powered renewable energy site selection and analysis platform.
 
 🔗 [View Project](https://github.com/ganjivenkatesh0/solar-wind-deployment-intelligence)
 
-### 2. Brain Tumor Detection
+### 2. ResuDesh – Resume Building Platform
+A web-based platform designed to help users create professional resumes and improve their career readiness.
+🌐 Website: resudesh.com
+📄 Professional resume creation
+🎯 Designed to support job seekers and freshers
+🔗 ResuDesh.ai | AI-Powered Resume Builder https://share.google/jxlvMca5gWxSr9rcY
+
+
+### 3. Brain Tumor Detection
 
 Machine Learning-based project focused on brain tumor detection using medical image analysis.
 
