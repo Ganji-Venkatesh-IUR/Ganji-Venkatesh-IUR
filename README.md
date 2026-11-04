@@ -1,99 +1,123 @@
-Hi, I'm Ganji Venkatesh 👋
 
-AI Engineer | Full Stack Developer | CSE Student
+<div align="center">
 
-I am a Computer Science and Engineering student passionate about building intelligent applications, exploring Artificial Intelligence, and developing practical software solutions.
+# Hi, I'm Ganji Venkatesh 👋
 
-I enjoy turning ideas into real-world projects through programming, machine learning, and modern web technologies.
+### AI Engineer Aspirant | Full Stack Developer | CSE '27
 
-- 🎓 B.Tech in Computer Science & Engineering | 2027
-- 🤖 Interested in Artificial Intelligence & Machine Learning
-- 💻 Exploring Full Stack Development
-- 🌱 Currently learning Data Structures, Machine Learning & Generative AI
-- 🚀 Building real-world projects and improving my engineering skills
-- 🎯 Goal: Become an AI Engineer and build impactful technology
+Building intelligent applications and practical software solutions.
 
----
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ganji-Venkatesh-IUR)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ganji.venkatesh.ai)
 
-🛠️ Tech Stack
-
-Programming Languages
-
-"Python" (https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-"JavaScript" (https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-"SQL" (https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-Frontend Development
-
-"HTML5" (https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-"CSS3" (https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-"React" (https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-Backend Development
-
-"Python" (https://img.shields.io/badge/Python_Backend-3776AB?style=for-the-badge&logo=python&logoColor=white)
-"FastAPI" (https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-"PostgreSQL" (https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-AI / Machine Learning
-
-"NumPy" (https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-"Pandas" (https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-"Scikit Learn" (https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-
-Tools & Technologies
-
-"Git" (https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-"GitHub" (https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-"Docker" (https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-"VS Code" (https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+</div>
 
 ---
 
-🚀 Featured Projects
+## 👨‍💻 About Me
 
-1. Solar & Wind Deployment Intelligence
-
-AI-powered platform designed to identify optimal locations for solar, wind, and hybrid renewable energy projects.
-
-- Environmental and geographical analysis
-- Machine Learning-based predictions
-- Renewable energy potential assessment
-- Backend: Python, FastAPI, PostgreSQL
-
-🔗 "View Project" (https://github.com/ganjivenkatesh0/solar-wind-deployment-intelligence)
-
-2. AI & Machine Learning Projects
-
-Exploring machine learning algorithms, data analysis, and intelligent application development.
-
-3. Full Stack Development Projects
-
-Building practical web applications using modern frontend and backend technologies.
+- 🎓 B.Tech Computer Science & Engineering | 2027
+- 🤖 Passionate about Artificial Intelligence and Machine Learning.
+- 💻 Interested in Full Stack Development.
+- 🌱 Currently learning Python, DSA, ML and Generative AI.
+- 🚀 Building real-world projects and exploring emerging technologies.
+- 🎯 Aspiring to become an AI Engineer.
 
 ---
 
-📊 GitHub Statistics
+## 🛠️ Technical Skills
 
-"GitHub Stats" (https://github-readme-stats.vercel.app/api?username=ganjivenkatesh0&show_icons=true&theme=tokyonight&hide_border=true)
+**Languages**
 
-"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=ganjivenkatesh0&layout=compact&theme=tokyonight&hide_border=true)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-"GitHub Streak" (https://streak-stats.demolab.com?user=ganjivenkatesh0&theme=tokyonight&hide_border=true)
+**Frontend**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
+**Backend & Database**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+**AI & Data Science**
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+
+**Developer Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ---
 
-🤝 Connect With Me
+## 🚀 Featured Projects
 
-""GitHub" (https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)" (https://github.com/ganjivenkatesh0)
-""Instagram" (https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)" (https://instagram.com/ganji.venkatesh.ai)
+### 1. Solar & Wind Deployment Intelligence
+
+AI-powered renewable energy site selection and analysis platform.
+
+- Solar, wind and hybrid potential assessment.
+- Geographical and environmental analysis.
+- Machine Learning-based predictions.
+- Backend powered by FastAPI and PostgreSQL.
+
+🔗 [View Project](https://github.com/ganjivenkatesh0/solar-wind-deployment-intelligence)
+
+### 2. Brain Tumor Detection
+
+Machine Learning-based project focused on brain tumor detection using medical image analysis.
+
+🔗 [Explore Repository](https://github.com/Ganji-Venkatesh-IUR/Brain-Tumor-Detection)
+
+### 3. Full Stack Development
+
+Developing practical web applications with modern frontend and backend technologies.
 
 ---
 
-💡 My Philosophy
+## 📊 GitHub Statistics
 
-"Build. Learn. Experiment. Improve. Repeat."
+<div align="center">
 
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ganji-Venkatesh-IUR&show_icons=true&theme=tokyonight&hide_border=true" />
 
--->
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ganji-Venkatesh-IUR&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img width="65%" src="https://streak-stats.demolab.com?user=Ganji-Venkatesh-IUR&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ganji-Venkatesh-IUR)
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ganji.venkatesh.ai)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 Build. Learn. Experiment. Improve.
+
+*Turning ideas into real-world solutions.*
+
+⭐ Thanks for visiting my profile!
+
+</div>
